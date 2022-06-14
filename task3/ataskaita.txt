@@ -1,0 +1,7 @@
+Ataskaita treciam uzdaviniui. 
+
+Teko 1.5 valandos pasimokyti, kas yra makefile ir kaip dirbti su malloc , calloc ir t.t. 
+Pacia uzduoti dariau 5.5 valandu. 
+Teko labai daug galvoti del logikos bei taisyt logines klaidas. 
+Galu gale paaskejo, jog uzdavinys atliktas ne iki galo teisingai del uzduoties dviprasmiskumo, ir teko skirt dar 2 valandas kita diena tam, kad tarpai liktu savo vietuose. 
+Is viso uztrukau 9 valandas. Planuota buvo uztrukti 5 valandas.

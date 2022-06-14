@@ -1,0 +1,31 @@
+Kodavimo standartas
+
+1. Kintamųjų vardai negali prasidėti skaičiumi
+Blogas pavyzdys: int 1temp; 
+Geras pavyzdys: int temp1;
+
+2. Jeigu kintamojo pavadinimas susideda iš kelių žodžių, visi žodžiai, išskyrus pirmąjį, turi prasidėti didžiosiomis raidėmis(CamelCase)
+Blogas pavyzdys: int NewNumberPointer; 
+Geras pavyzdys: int newNumberPointer;
+
+3. Visų funkcijų, išskyrus main, pavadinimai prasideda didžiosiomis raidėmis bei pritaikytas CamelCase standartas
+Blogas pavyzdys: void validateNumber; 
+Geras pavyzdys: void ValidateNumber;
+
+4. Visi kintamieji pavadinti prasmingai 
+Blogas pavyzdys: int a; 
+Geras pavyzyds: int number;
+
+5. Ciklų ir sąlygų veiksmai yra aprašomi riestiniuose skliaustuose, nepriklausomai nuo veiksmų skaičiaus viduje
+Blogas pavyzdys:
+        if (first == NULL)
+			return;
+Geras pavyzdys:
+        if (first == NULL)
+		{
+			return;
+		}
+		
+6. Komentarai yra rašomi tik būtiniausais atvejais (stengiamasi komentarų nerašyti)
+	
+7. Kodas rašomas struktūrizuotai

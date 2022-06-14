@@ -1,0 +1,7 @@
+Atsiliepimas del 2 programos kurimo
+
+Buvo sunku suprast salyga, kas yra vektoriai. Kai issiaskinau, kas yra algebrainiai vektoriai, parasyt programa sugebejau per 2 valandas. 
+Po to dar 1-2 valandas skyriau klaidu taisymui, valydavimo kurimui bei skirimui programa i funkcijas. 
+Sunkiausia buvo suprast, ka reikia daryt, o ne pats programos kurimas. 
+Tam, kad pagerintu procesa, skirciau daugiau laiko pprocedurinio programavimo paskaitoms bei praktikai. 
+Tada mazaiu laiko uztruktu parasyt programa.

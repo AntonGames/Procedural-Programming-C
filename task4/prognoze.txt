@@ -1,0 +1,4 @@
+Ketvirtai uzduociai planuoju uztrukt apie 15 valandu. 
+2 valandos - vienetu testai, kodo standartas ir kita teorija reikalavimams. 
+5 valados - kodo rasymas. 3 valandos - klaidu taisymas, debuginimas. 
+5 valandos - klaidu taisymas po susisiekimo su jumis / atsiskaitymo, jei tokiu atsiras

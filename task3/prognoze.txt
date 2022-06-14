@@ -1,0 +1,4 @@
+Planuoju uztrukti 5 valandas 3 uzduoties darymui. 
+1 valanda - dinaminiu masivu (calloc, malloc, realloc ir free) aiskinimas, bei aiskinimas kaip dirbti su keliais failais. 
+2 valandos - pacios uzduoties darymas (funkcija, isvedimas, failo skaitymas ir t.t.). 
+Dar 2 valandos - klaidu paieska ir taisymas, validavimas, kodo tobulinimas (jei atsiskaitimo metu paasikes, jog kazkas padaryta blogai). 

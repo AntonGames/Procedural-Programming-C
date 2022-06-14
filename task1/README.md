@@ -1,0 +1,2 @@
+Enter a sequence of integer positive numbers until the maximum number entered is two or more times the minimum.
+The program outputs these numbers (maximum and minimum) and the number of members entered.

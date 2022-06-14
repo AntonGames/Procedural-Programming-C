@@ -1,0 +1,7 @@
+Ataskaita ketvirtam uzdaviniui. 
+
+Uzduoti pilnai padaryti uztruko apytiksliai 10 valandu, kaip ir buvo planuota (klausimu neiskilo, kol kas klaidu nerasta). 
+Apie 1.5 valandu teko pasidimet apie vienetu testus, apie tai, kaip rasyti koda standarta ir apie papildomas funkcijas / bibliotekas reikalingas programos logikai. 
+Pats arhitekturos kurimas ir kodo rasymas uztruko apytiksliai 3.5 valadas, po kuriu teko skirt dar 2 valadas klaidu taisymui ir logikos tobulinimui, nes buvo klaidu. 
+1.5 valandos teko skirt test.c failo kurimui, kuri paleidziant tikrinama programos funkcija. 
+Likusias 1.5 valandas skyriau kodo standarto rasymui ir make file kurimui.
